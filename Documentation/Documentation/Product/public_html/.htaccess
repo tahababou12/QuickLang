@@ -1,0 +1,17 @@
+RewriteEngine On
+RewriteRule	^home$	index.php	[L]	
+RewriteRule	^register$	register.php	[L]	
+RewriteRule	^adduser$	services/adduser.php	[L]	
+RewriteRule	^login$	   services/loginuser.php	[L]	
+RewriteRule	^reset$	   reset.php	[L]	
+RewriteRule	^recover$	services/recover.php	[L]	
+RewriteRule	^logout$	services/logout.php	[L]	
+RewriteRule	^writing$	writing.php	[L]	
+RewriteRule	^pictures$	pics.php	[L]	
+RewriteRule	^listen$	listen.php	[L]
+RewriteRule	^complete$	complete.php	[L]
+RewriteRule	^pair$	pair.php	[L]
+RewriteRule	^translate$	translate.php	[L]
+
+
+RewriteRule	^start$	   home.php	[L]	

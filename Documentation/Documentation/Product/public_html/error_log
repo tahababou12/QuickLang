@@ -1,0 +1,352 @@
+[22-Aug-2019 10:53:14 UTC] PHP Notice:  Undefined index: id in /home/quicklan/public_html/services/check.php on line 3
+[22-Aug-2019 10:53:14 UTC] PHP Notice:  Undefined index: email in /home/quicklan/public_html/services/check.php on line 4
+[22-Aug-2019 10:53:14 UTC] PHP Notice:  Undefined index: password in /home/quicklan/public_html/services/check.php on line 5
+[22-Aug-2019 10:53:14 UTC] PHP Notice:  Undefined index: firstname in /home/quicklan/public_html/home.php on line 17
+[22-Aug-2019 10:53:14 UTC] PHP Notice:  Undefined variable: top_s1 in /home/quicklan/public_html/home.php on line 44
+[22-Aug-2019 10:53:14 UTC] PHP Notice:  Undefined variable: top_s2 in /home/quicklan/public_html/home.php on line 64
+[22-Aug-2019 10:53:14 UTC] PHP Notice:  Undefined variable: top_s3 in /home/quicklan/public_html/home.php on line 84
+[22-Aug-2019 10:53:14 UTC] PHP Notice:  Undefined variable: top_s4 in /home/quicklan/public_html/home.php on line 124
+[22-Aug-2019 10:53:14 UTC] PHP Notice:  Undefined variable: top_s5 in /home/quicklan/public_html/home.php on line 144
+[22-Aug-2019 10:53:14 UTC] PHP Notice:  Undefined variable: top_s6 in /home/quicklan/public_html/home.php on line 164
+[22-Aug-2019 19:44:15 UTC] PHP Notice:  Undefined variable: val in /home/quicklan/public_html/listen.php on line 90
+[22-Aug-2019 19:44:15 UTC] PHP Fatal error:  Uncaught Exception: The text is undefined in /home/quicklan/public_html/lib/voicerss_tts.php:12
+Stack trace:
+#0 /home/quicklan/public_html/lib/voicerss_tts.php(5): VoiceRSS->_validate(Array)
+#1 /home/quicklan/public_html/listen.php(95): VoiceRSS->speech(Array)
+#2 {main}
+  thrown in /home/quicklan/public_html/lib/voicerss_tts.php on line 12
+[23-Aug-2019 09:30:06 UTC] PHP Notice:  Undefined index: id in /home/quicklan/public_html/services/check.php on line 3
+[23-Aug-2019 09:30:06 UTC] PHP Notice:  Undefined index: email in /home/quicklan/public_html/services/check.php on line 4
+[23-Aug-2019 09:30:06 UTC] PHP Notice:  Undefined index: password in /home/quicklan/public_html/services/check.php on line 5
+[23-Aug-2019 09:30:06 UTC] PHP Notice:  Undefined index: firstname in /home/quicklan/public_html/listen.php on line 18
+[23-Aug-2019 09:36:06 UTC] PHP Notice:  Undefined index: id in /home/quicklan/public_html/services/check.php on line 3
+[23-Aug-2019 09:36:06 UTC] PHP Notice:  Undefined index: email in /home/quicklan/public_html/services/check.php on line 4
+[23-Aug-2019 09:36:06 UTC] PHP Notice:  Undefined index: password in /home/quicklan/public_html/services/check.php on line 5
+[23-Aug-2019 09:36:06 UTC] PHP Notice:  Undefined index: firstname in /home/quicklan/public_html/pics.php on line 17
+[23-Aug-2019 13:25:33 UTC] PHP Notice:  Undefined index: id in /home/quicklan/public_html/services/check.php on line 3
+[23-Aug-2019 13:25:33 UTC] PHP Notice:  Undefined index: email in /home/quicklan/public_html/services/check.php on line 4
+[23-Aug-2019 13:25:33 UTC] PHP Notice:  Undefined index: password in /home/quicklan/public_html/services/check.php on line 5
+[23-Aug-2019 13:25:33 UTC] PHP Notice:  Undefined index: firstname in /home/quicklan/public_html/complete.php on line 17
+[23-Aug-2019 15:54:25 UTC] PHP Notice:  Undefined index: id in /home/quicklan/public_html/services/check.php on line 3
+[23-Aug-2019 15:54:25 UTC] PHP Notice:  Undefined index: email in /home/quicklan/public_html/services/check.php on line 4
+[23-Aug-2019 15:54:25 UTC] PHP Notice:  Undefined index: password in /home/quicklan/public_html/services/check.php on line 5
+[23-Aug-2019 15:54:25 UTC] PHP Notice:  Undefined index: firstname in /home/quicklan/public_html/home.php on line 17
+[23-Aug-2019 15:54:25 UTC] PHP Notice:  Undefined variable: top_s1 in /home/quicklan/public_html/home.php on line 44
+[23-Aug-2019 15:54:25 UTC] PHP Notice:  Undefined variable: top_s2 in /home/quicklan/public_html/home.php on line 64
+[23-Aug-2019 15:54:25 UTC] PHP Notice:  Undefined variable: top_s3 in /home/quicklan/public_html/home.php on line 84
+[23-Aug-2019 15:54:25 UTC] PHP Notice:  Undefined variable: top_s4 in /home/quicklan/public_html/home.php on line 124
+[23-Aug-2019 15:54:25 UTC] PHP Notice:  Undefined variable: top_s5 in /home/quicklan/public_html/home.php on line 144
+[23-Aug-2019 15:54:25 UTC] PHP Notice:  Undefined variable: top_s6 in /home/quicklan/public_html/home.php on line 164
+[23-Aug-2019 18:15:46 UTC] PHP Notice:  Undefined index: id in /home/quicklan/public_html/services/check.php on line 3
+[23-Aug-2019 18:15:46 UTC] PHP Notice:  Undefined index: email in /home/quicklan/public_html/services/check.php on line 4
+[23-Aug-2019 18:15:46 UTC] PHP Notice:  Undefined index: password in /home/quicklan/public_html/services/check.php on line 5
+[23-Aug-2019 18:15:46 UTC] PHP Notice:  Undefined index: firstname in /home/quicklan/public_html/pair.php on line 17
+[23-Aug-2019 21:58:12 UTC] PHP Notice:  Undefined index: id in /home/quicklan/public_html/services/check.php on line 3
+[23-Aug-2019 21:58:12 UTC] PHP Notice:  Undefined index: email in /home/quicklan/public_html/services/check.php on line 4
+[23-Aug-2019 21:58:12 UTC] PHP Notice:  Undefined index: password in /home/quicklan/public_html/services/check.php on line 5
+[23-Aug-2019 21:58:12 UTC] PHP Notice:  Undefined index: firstname in /home/quicklan/public_html/pair.php on line 17
+[23-Aug-2019 21:58:12 UTC] PHP Notice:  Undefined index: id in /home/quicklan/public_html/services/check.php on line 3
+[23-Aug-2019 21:58:12 UTC] PHP Notice:  Undefined index: email in /home/quicklan/public_html/services/check.php on line 4
+[23-Aug-2019 21:58:12 UTC] PHP Notice:  Undefined index: password in /home/quicklan/public_html/services/check.php on line 5
+[23-Aug-2019 21:58:12 UTC] PHP Notice:  Undefined index: firstname in /home/quicklan/public_html/pair.php on line 17
+[23-Aug-2019 23:28:06 UTC] PHP Notice:  Undefined index: id in /home/quicklan/public_html/services/check.php on line 3
+[23-Aug-2019 23:28:06 UTC] PHP Notice:  Undefined index: email in /home/quicklan/public_html/services/check.php on line 4
+[23-Aug-2019 23:28:06 UTC] PHP Notice:  Undefined index: password in /home/quicklan/public_html/services/check.php on line 5
+[23-Aug-2019 23:28:06 UTC] PHP Notice:  Undefined index: firstname in /home/quicklan/public_html/pair.php on line 17
+[24-Aug-2019 13:18:35 UTC] PHP Notice:  Undefined index: id in /home/quicklan/public_html/services/check.php on line 3
+[24-Aug-2019 13:18:35 UTC] PHP Notice:  Undefined index: email in /home/quicklan/public_html/services/check.php on line 4
+[24-Aug-2019 13:18:35 UTC] PHP Notice:  Undefined index: password in /home/quicklan/public_html/services/check.php on line 5
+[24-Aug-2019 13:18:35 UTC] PHP Notice:  Undefined index: firstname in /home/quicklan/public_html/pair.php on line 45
+[24-Aug-2019 16:39:49 UTC] PHP Notice:  Undefined index: id in /home/quicklan/public_html/services/check.php on line 3
+[24-Aug-2019 16:39:49 UTC] PHP Notice:  Undefined index: email in /home/quicklan/public_html/services/check.php on line 4
+[24-Aug-2019 16:39:49 UTC] PHP Notice:  Undefined index: password in /home/quicklan/public_html/services/check.php on line 5
+[24-Aug-2019 16:39:49 UTC] PHP Notice:  Undefined index: firstname in /home/quicklan/public_html/pair.php on line 18
+[24-Aug-2019 18:11:49 UTC] PHP Notice:  Undefined index: id in /home/quicklan/public_html/services/check.php on line 3
+[24-Aug-2019 18:11:49 UTC] PHP Notice:  Undefined index: email in /home/quicklan/public_html/services/check.php on line 4
+[24-Aug-2019 18:11:49 UTC] PHP Notice:  Undefined index: password in /home/quicklan/public_html/services/check.php on line 5
+[24-Aug-2019 18:11:49 UTC] PHP Notice:  Undefined index: firstname in /home/quicklan/public_html/pair.php on line 18
+[24-Aug-2019 18:12:19 UTC] PHP Notice:  Undefined index: id in /home/quicklan/public_html/services/check.php on line 3
+[24-Aug-2019 18:12:19 UTC] PHP Notice:  Undefined index: email in /home/quicklan/public_html/services/check.php on line 4
+[24-Aug-2019 18:12:19 UTC] PHP Notice:  Undefined index: password in /home/quicklan/public_html/services/check.php on line 5
+[24-Aug-2019 18:12:19 UTC] PHP Notice:  Undefined index: firstname in /home/quicklan/public_html/pair.php on line 18
+[24-Aug-2019 20:28:29 UTC] PHP Notice:  Undefined index: id in /home/quicklan/public_html/services/check.php on line 3
+[24-Aug-2019 20:28:29 UTC] PHP Notice:  Undefined index: email in /home/quicklan/public_html/services/check.php on line 4
+[24-Aug-2019 20:28:29 UTC] PHP Notice:  Undefined index: password in /home/quicklan/public_html/services/check.php on line 5
+[24-Aug-2019 20:28:29 UTC] PHP Notice:  Undefined index: firstname in /home/quicklan/public_html/pair.php on line 18
+[24-Aug-2019 23:23:24 UTC] PHP Notice:  Undefined index: id in /home/quicklan/public_html/services/check.php on line 3
+[24-Aug-2019 23:23:24 UTC] PHP Notice:  Undefined index: email in /home/quicklan/public_html/services/check.php on line 4
+[24-Aug-2019 23:23:24 UTC] PHP Notice:  Undefined index: password in /home/quicklan/public_html/services/check.php on line 5
+[24-Aug-2019 23:23:24 UTC] PHP Notice:  Undefined index: firstname in /home/quicklan/public_html/home.php on line 17
+[24-Aug-2019 23:23:24 UTC] PHP Notice:  Undefined variable: top_s1 in /home/quicklan/public_html/home.php on line 44
+[24-Aug-2019 23:23:24 UTC] PHP Notice:  Undefined variable: top_s2 in /home/quicklan/public_html/home.php on line 64
+[24-Aug-2019 23:23:24 UTC] PHP Notice:  Undefined variable: top_s3 in /home/quicklan/public_html/home.php on line 84
+[24-Aug-2019 23:23:24 UTC] PHP Notice:  Undefined variable: top_s4 in /home/quicklan/public_html/home.php on line 124
+[24-Aug-2019 23:23:24 UTC] PHP Notice:  Undefined variable: top_s5 in /home/quicklan/public_html/home.php on line 144
+[24-Aug-2019 23:23:24 UTC] PHP Notice:  Undefined variable: top_s6 in /home/quicklan/public_html/home.php on line 164
+[24-Aug-2019 23:23:36 UTC] PHP Notice:  Undefined index: id in /home/quicklan/public_html/services/check.php on line 3
+[24-Aug-2019 23:23:36 UTC] PHP Notice:  Undefined index: email in /home/quicklan/public_html/services/check.php on line 4
+[24-Aug-2019 23:23:36 UTC] PHP Notice:  Undefined index: password in /home/quicklan/public_html/services/check.php on line 5
+[24-Aug-2019 23:23:36 UTC] PHP Notice:  Undefined index: firstname in /home/quicklan/public_html/writing.php on line 17
+[25-Aug-2019 22:21:16 UTC] PHP Notice:  Undefined variable: laststname in /home/quicklan/public_html/mail.php on line 15
+[26-Aug-2019 01:04:38 UTC] PHP Notice:  Undefined index: id in /home/quicklan/public_html/services/check.php on line 3
+[26-Aug-2019 01:04:38 UTC] PHP Notice:  Undefined index: email in /home/quicklan/public_html/services/check.php on line 4
+[26-Aug-2019 01:04:38 UTC] PHP Notice:  Undefined index: password in /home/quicklan/public_html/services/check.php on line 5
+[26-Aug-2019 01:04:38 UTC] PHP Notice:  Undefined index: firstname in /home/quicklan/public_html/writing.php on line 17
+[26-Aug-2019 13:21:36 UTC] PHP Notice:  Undefined variable: laststname in /home/quicklan/public_html/mail.php on line 15
+[26-Aug-2019 13:22:24 UTC] PHP Notice:  Undefined variable: laststname in /home/quicklan/public_html/mail.php on line 15
+[26-Aug-2019 16:25:09 UTC] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in /home/quicklan/public_html/inc/header.php on line 53
+[27-Aug-2019 00:11:35 UTC] PHP Notice:  Undefined index: id in /home/quicklan/public_html/services/check.php on line 4
+[27-Aug-2019 00:11:35 UTC] PHP Notice:  Undefined index: email in /home/quicklan/public_html/services/check.php on line 5
+[27-Aug-2019 00:11:35 UTC] PHP Notice:  Undefined index: password in /home/quicklan/public_html/services/check.php on line 6
+[27-Aug-2019 00:11:35 UTC] PHP Notice:  Undefined index: firstname in /home/quicklan/public_html/home.php on line 17
+[27-Aug-2019 00:11:35 UTC] PHP Notice:  Undefined variable: top_s1 in /home/quicklan/public_html/home.php on line 45
+[27-Aug-2019 00:11:35 UTC] PHP Notice:  Undefined variable: top_s2 in /home/quicklan/public_html/home.php on line 65
+[27-Aug-2019 00:11:35 UTC] PHP Notice:  Undefined variable: top_s3 in /home/quicklan/public_html/home.php on line 85
+[27-Aug-2019 00:11:35 UTC] PHP Notice:  Undefined variable: top_s4 in /home/quicklan/public_html/home.php on line 125
+[27-Aug-2019 00:11:35 UTC] PHP Notice:  Undefined variable: top_s5 in /home/quicklan/public_html/home.php on line 145
+[27-Aug-2019 00:11:35 UTC] PHP Notice:  Undefined variable: top_s6 in /home/quicklan/public_html/home.php on line 165
+[30-Aug-2019 00:04:56 UTC] PHP Parse error:  syntax error, unexpected '$users' (T_VARIABLE), expecting ',' or ';' in /home/quicklan/public_html/taha.php on line 10
+[30-Aug-2019 00:06:21 UTC] PHP Parse error:  syntax error, unexpected '$users' (T_VARIABLE), expecting ',' or ';' in /home/quicklan/public_html/taha.php on line 10
+[30-Aug-2019 00:06:35 UTC] PHP Parse error:  syntax error, unexpected '$users' (T_VARIABLE), expecting ',' or ';' in /home/quicklan/public_html/taha.php on line 10
+[30-Aug-2019 00:06:38 UTC] PHP Parse error:  syntax error, unexpected '$users' (T_VARIABLE), expecting ',' or ';' in /home/quicklan/public_html/taha.php on line 10
+[30-Aug-2019 00:06:42 UTC] PHP Parse error:  syntax error, unexpected '$users' (T_VARIABLE), expecting ',' or ';' in /home/quicklan/public_html/taha.php on line 10
+[30-Aug-2019 00:06:44 UTC] PHP Parse error:  syntax error, unexpected '$users' (T_VARIABLE), expecting ',' or ';' in /home/quicklan/public_html/taha.php on line 10
+[30-Aug-2019 00:06:46 UTC] PHP Parse error:  syntax error, unexpected '$users' (T_VARIABLE), expecting ',' or ';' in /home/quicklan/public_html/taha.php on line 10
+[30-Aug-2019 00:08:17 UTC] PHP Notice:  Undefined index: id in /home/quicklan/public_html/services/check.php on line 4
+[30-Aug-2019 00:08:17 UTC] PHP Notice:  Undefined index: email in /home/quicklan/public_html/services/check.php on line 5
+[30-Aug-2019 00:08:17 UTC] PHP Notice:  Undefined index: password in /home/quicklan/public_html/services/check.php on line 6
+[30-Aug-2019 00:08:17 UTC] PHP Notice:  Undefined index: firstname in /home/quicklan/public_html/home.php on line 17
+[30-Aug-2019 00:08:17 UTC] PHP Notice:  Undefined variable: top_s1 in /home/quicklan/public_html/home.php on line 45
+[30-Aug-2019 00:08:17 UTC] PHP Notice:  Undefined variable: top_s2 in /home/quicklan/public_html/home.php on line 65
+[30-Aug-2019 00:08:17 UTC] PHP Notice:  Undefined variable: top_s3 in /home/quicklan/public_html/home.php on line 85
+[30-Aug-2019 00:08:17 UTC] PHP Notice:  Undefined variable: top_s4 in /home/quicklan/public_html/home.php on line 125
+[30-Aug-2019 00:08:17 UTC] PHP Notice:  Undefined variable: top_s5 in /home/quicklan/public_html/home.php on line 145
+[30-Aug-2019 00:08:17 UTC] PHP Notice:  Undefined variable: top_s6 in /home/quicklan/public_html/home.php on line 165
+[30-Aug-2019 00:40:48 UTC] PHP Parse error:  syntax error, unexpected '$users' (T_VARIABLE), expecting ',' or ';' in /home/quicklan/public_html/taha.php on line 10
+[30-Aug-2019 00:40:55 UTC] PHP Parse error:  syntax error, unexpected ''app_users'' (T_CONSTANT_ENCAPSED_STRING) in /home/quicklan/public_html/taha.php on line 10
+[30-Aug-2019 00:40:57 UTC] PHP Parse error:  syntax error, unexpected ''app_users'' (T_CONSTANT_ENCAPSED_STRING) in /home/quicklan/public_html/taha.php on line 10
+[30-Aug-2019 00:41:22 UTC] PHP Parse error:  syntax error, unexpected ''app_users'' (T_CONSTANT_ENCAPSED_STRING) in /home/quicklan/public_html/taha.php on line 10
+[30-Aug-2019 00:41:25 UTC] PHP Parse error:  syntax error, unexpected ''app_users'' (T_CONSTANT_ENCAPSED_STRING) in /home/quicklan/public_html/taha.php on line 10
+[30-Aug-2019 00:42:37 UTC] PHP Parse error:  syntax error, unexpected ''app_users'' (T_CONSTANT_ENCAPSED_STRING) in /home/quicklan/public_html/taha.php on line 10
+[30-Aug-2019 00:42:45 UTC] PHP Parse error:  syntax error, unexpected 'app_users' (T_STRING) in /home/quicklan/public_html/taha.php on line 6
+[30-Aug-2019 00:42:46 UTC] PHP Parse error:  syntax error, unexpected 'app_users' (T_STRING) in /home/quicklan/public_html/taha.php on line 6
+[30-Aug-2019 00:43:11 UTC] PHP Parse error:  syntax error, unexpected ''app_users'' (T_CONSTANT_ENCAPSED_STRING) in /home/quicklan/public_html/taha.php on line 6
+[30-Aug-2019 00:43:12 UTC] PHP Parse error:  syntax error, unexpected ''app_users'' (T_CONSTANT_ENCAPSED_STRING) in /home/quicklan/public_html/taha.php on line 6
+[30-Aug-2019 00:43:27 UTC] PHP Parse error:  syntax error, unexpected ''app_users'' (T_CONSTANT_ENCAPSED_STRING) in /home/quicklan/public_html/taha.php on line 6
+[30-Aug-2019 00:43:28 UTC] PHP Parse error:  syntax error, unexpected ''app_users'' (T_CONSTANT_ENCAPSED_STRING) in /home/quicklan/public_html/taha.php on line 6
+[30-Aug-2019 00:43:29 UTC] PHP Parse error:  syntax error, unexpected ''app_users'' (T_CONSTANT_ENCAPSED_STRING) in /home/quicklan/public_html/taha.php on line 6
+[30-Aug-2019 00:43:52 UTC] PHP Parse error:  syntax error, unexpected ''app_users'' (T_CONSTANT_ENCAPSED_STRING) in /home/quicklan/public_html/taha.php on line 10
+[30-Aug-2019 00:43:53 UTC] PHP Parse error:  syntax error, unexpected ''app_users'' (T_CONSTANT_ENCAPSED_STRING) in /home/quicklan/public_html/taha.php on line 10
+[30-Aug-2019 00:46:10 UTC] PHP Parse error:  syntax error, unexpected ''app_users'' (T_CONSTANT_ENCAPSED_STRING) in /home/quicklan/public_html/taha.php on line 6
+[30-Aug-2019 00:46:53 UTC] PHP Parse error:  syntax error, unexpected '`' in /home/quicklan/public_html/taha.php on line 6
+[30-Aug-2019 00:46:55 UTC] PHP Parse error:  syntax error, unexpected '`' in /home/quicklan/public_html/taha.php on line 6
+[30-Aug-2019 00:47:28 UTC] PHP Parse error:  syntax error, unexpected '`' in /home/quicklan/public_html/taha.php on line 6
+[30-Aug-2019 00:47:37 UTC] PHP Parse error:  syntax error, unexpected ''app_users'' (T_CONSTANT_ENCAPSED_STRING) in /home/quicklan/public_html/taha.php on line 6
+[30-Aug-2019 00:49:28 UTC] PHP Parse error:  syntax error, unexpected ''app_users'' (T_CONSTANT_ENCAPSED_STRING) in /home/quicklan/public_html/taha.php on line 6
+[30-Aug-2019 00:49:31 UTC] PHP Parse error:  syntax error, unexpected ''app_users'' (T_CONSTANT_ENCAPSED_STRING) in /home/quicklan/public_html/taha.php on line 6
+[30-Aug-2019 00:49:37 UTC] PHP Parse error:  syntax error, unexpected ''app_users'' (T_CONSTANT_ENCAPSED_STRING) in /home/quicklan/public_html/taha.php on line 6
+[30-Aug-2019 00:49:47 UTC] PHP Parse error:  syntax error, unexpected ''app_users'' (T_CONSTANT_ENCAPSED_STRING) in /home/quicklan/public_html/taha.php on line 6
+[30-Aug-2019 00:50:00 UTC] PHP Parse error:  syntax error, unexpected ''app_users'' (T_CONSTANT_ENCAPSED_STRING) in /home/quicklan/public_html/taha.php on line 6
+[30-Aug-2019 00:50:01 UTC] PHP Parse error:  syntax error, unexpected ''app_users'' (T_CONSTANT_ENCAPSED_STRING) in /home/quicklan/public_html/taha.php on line 6
+[30-Aug-2019 00:50:02 UTC] PHP Parse error:  syntax error, unexpected ''app_users'' (T_CONSTANT_ENCAPSED_STRING) in /home/quicklan/public_html/taha.php on line 6
+[30-Aug-2019 00:50:03 UTC] PHP Parse error:  syntax error, unexpected ''app_users'' (T_CONSTANT_ENCAPSED_STRING) in /home/quicklan/public_html/taha.php on line 6
+[30-Aug-2019 00:50:08 UTC] PHP Parse error:  syntax error, unexpected ''app_users'' (T_CONSTANT_ENCAPSED_STRING) in /home/quicklan/public_html/taha.php on line 6
+[30-Aug-2019 00:50:12 UTC] PHP Parse error:  syntax error, unexpected ''app_users'' (T_CONSTANT_ENCAPSED_STRING) in /home/quicklan/public_html/taha.php on line 6
+[30-Aug-2019 00:51:01 UTC] PHP Parse error:  syntax error, unexpected ''app_users'' (T_CONSTANT_ENCAPSED_STRING) in /home/quicklan/public_html/taha.php on line 6
+[30-Aug-2019 01:00:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/taha.php on line 19
+[30-Aug-2019 01:02:49 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' in /home/quicklan/public_html/taha.php on line 23
+[30-Aug-2019 01:02:55 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' in /home/quicklan/public_html/taha.php on line 23
+[30-Aug-2019 01:02:56 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' in /home/quicklan/public_html/taha.php on line 23
+[30-Aug-2019 01:06:19 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/quicklan/public_html/taha.php on line 23
+[30-Aug-2019 01:07:03 UTC] PHP Notice:  Undefined index: <stong>firstname</strong> in /home/quicklan/public_html/taha.php on line 21
+[30-Aug-2019 01:07:03 UTC] PHP Notice:  Undefined index: <stong>firstname</strong> in /home/quicklan/public_html/taha.php on line 21
+[30-Aug-2019 01:07:03 UTC] PHP Notice:  Undefined index: <stong>firstname</strong> in /home/quicklan/public_html/taha.php on line 21
+[30-Aug-2019 01:07:03 UTC] PHP Notice:  Undefined index: <stong>firstname</strong> in /home/quicklan/public_html/taha.php on line 21
+[30-Aug-2019 01:07:03 UTC] PHP Notice:  Undefined index: <stong>firstname</strong> in /home/quicklan/public_html/taha.php on line 21
+[30-Aug-2019 01:07:32 UTC] PHP Notice:  Undefined index: <stong>firstname</strong> in /home/quicklan/public_html/taha.php on line 21
+[30-Aug-2019 01:07:32 UTC] PHP Notice:  Undefined index: <stong>firstname</strong> in /home/quicklan/public_html/taha.php on line 21
+[30-Aug-2019 01:07:32 UTC] PHP Notice:  Undefined index: <stong>firstname</strong> in /home/quicklan/public_html/taha.php on line 21
+[30-Aug-2019 01:07:32 UTC] PHP Notice:  Undefined index: <stong>firstname</strong> in /home/quicklan/public_html/taha.php on line 21
+[30-Aug-2019 01:07:32 UTC] PHP Notice:  Undefined index: <stong>firstname</strong> in /home/quicklan/public_html/taha.php on line 21
+[30-Aug-2019 01:07:35 UTC] PHP Notice:  Undefined index: <stong>firstname</strong> in /home/quicklan/public_html/taha.php on line 21
+[30-Aug-2019 01:07:35 UTC] PHP Notice:  Undefined index: <stong>firstname</strong> in /home/quicklan/public_html/taha.php on line 21
+[30-Aug-2019 01:07:35 UTC] PHP Notice:  Undefined index: <stong>firstname</strong> in /home/quicklan/public_html/taha.php on line 21
+[30-Aug-2019 01:07:35 UTC] PHP Notice:  Undefined index: <stong>firstname</strong> in /home/quicklan/public_html/taha.php on line 21
+[30-Aug-2019 01:07:35 UTC] PHP Notice:  Undefined index: <stong>firstname</strong> in /home/quicklan/public_html/taha.php on line 21
+[30-Aug-2019 01:08:42 UTC] PHP Parse error:  syntax error, unexpected '<', expecting ']' in /home/quicklan/public_html/taha.php on line 21
+[30-Aug-2019 01:09:06 UTC] PHP Notice:  Undefined index: <strong> firstname </strong> in /home/quicklan/public_html/taha.php on line 21
+[30-Aug-2019 01:09:06 UTC] PHP Notice:  Undefined index: <strong> firstname </strong> in /home/quicklan/public_html/taha.php on line 21
+[30-Aug-2019 01:09:06 UTC] PHP Notice:  Undefined index: <strong> firstname </strong> in /home/quicklan/public_html/taha.php on line 21
+[30-Aug-2019 01:09:06 UTC] PHP Notice:  Undefined index: <strong> firstname </strong> in /home/quicklan/public_html/taha.php on line 21
+[30-Aug-2019 01:09:06 UTC] PHP Notice:  Undefined index: <strong> firstname </strong> in /home/quicklan/public_html/taha.php on line 21
+[30-Aug-2019 01:15:19 UTC] PHP Parse error:  syntax error, unexpected '$results' (T_VARIABLE) in /home/quicklan/public_html/taha.php on line 14
+[30-Aug-2019 01:15:30 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/quicklan/public_html/taha.php on line 15
+[30-Aug-2019 01:15:56 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/quicklan/public_html/taha.php on line 15
+[30-Aug-2019 01:15:57 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/quicklan/public_html/taha.php on line 15
+[30-Aug-2019 01:17:49 UTC] PHP Parse error:  syntax error, unexpected '$exec' (T_VARIABLE) in /home/quicklan/public_html/taha.php on line 11
+[30-Aug-2019 01:17:50 UTC] PHP Parse error:  syntax error, unexpected '$exec' (T_VARIABLE) in /home/quicklan/public_html/taha.php on line 11
+[30-Aug-2019 01:18:02 UTC] PHP Parse error:  syntax error, unexpected '$exec' (T_VARIABLE) in /home/quicklan/public_html/taha.php on line 11
+[30-Aug-2019 01:18:04 UTC] PHP Parse error:  syntax error, unexpected '$exec' (T_VARIABLE) in /home/quicklan/public_html/taha.php on line 11
+[30-Aug-2019 01:19:57 UTC] PHP Parse error:  syntax error, unexpected '$exec' (T_VARIABLE) in /home/quicklan/public_html/taha.php on line 11
+[30-Aug-2019 01:19:59 UTC] PHP Parse error:  syntax error, unexpected '$exec' (T_VARIABLE) in /home/quicklan/public_html/taha.php on line 11
+[30-Aug-2019 01:19:59 UTC] PHP Parse error:  syntax error, unexpected '$exec' (T_VARIABLE) in /home/quicklan/public_html/taha.php on line 11
+[30-Aug-2019 01:20:00 UTC] PHP Parse error:  syntax error, unexpected '$exec' (T_VARIABLE) in /home/quicklan/public_html/taha.php on line 11
+[30-Aug-2019 15:44:38 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/quicklan/public_html/score_log.php on line 96
+[30-Aug-2019 15:44:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 15:44:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/quicklan/public_html/score_log.php on line 109
+[30-Aug-2019 21:51:41 UTC] PHP Notice:  Undefined index: id in /home/quicklan/public_html/services/check.php on line 4
+[30-Aug-2019 21:51:41 UTC] PHP Notice:  Undefined index: email in /home/quicklan/public_html/services/check.php on line 5
+[30-Aug-2019 21:51:41 UTC] PHP Notice:  Undefined index: password in /home/quicklan/public_html/services/check.php on line 6
+[30-Aug-2019 21:51:41 UTC] PHP Notice:  Undefined index: firstname in /home/quicklan/public_html/home.php on line 17
+[30-Aug-2019 21:51:41 UTC] PHP Notice:  Undefined variable: top_s1 in /home/quicklan/public_html/home.php on line 45
+[30-Aug-2019 21:51:41 UTC] PHP Notice:  Undefined variable: top_s2 in /home/quicklan/public_html/home.php on line 65
+[30-Aug-2019 21:51:41 UTC] PHP Notice:  Undefined variable: top_s3 in /home/quicklan/public_html/home.php on line 85
+[30-Aug-2019 21:51:41 UTC] PHP Notice:  Undefined variable: top_s4 in /home/quicklan/public_html/home.php on line 125
+[30-Aug-2019 21:51:41 UTC] PHP Notice:  Undefined variable: top_s5 in /home/quicklan/public_html/home.php on line 145
+[30-Aug-2019 21:51:41 UTC] PHP Notice:  Undefined variable: top_s6 in /home/quicklan/public_html/home.php on line 165
+[30-Aug-2019 21:51:41 UTC] PHP Notice:  Undefined index: id in /home/quicklan/public_html/services/check.php on line 4
+[30-Aug-2019 21:51:41 UTC] PHP Notice:  Undefined index: email in /home/quicklan/public_html/services/check.php on line 5
+[30-Aug-2019 21:51:41 UTC] PHP Notice:  Undefined index: password in /home/quicklan/public_html/services/check.php on line 6
+[30-Aug-2019 21:51:41 UTC] PHP Notice:  Undefined index: firstname in /home/quicklan/public_html/home.php on line 17
+[30-Aug-2019 21:51:41 UTC] PHP Notice:  Undefined variable: top_s1 in /home/quicklan/public_html/home.php on line 45
+[30-Aug-2019 21:51:41 UTC] PHP Notice:  Undefined variable: top_s2 in /home/quicklan/public_html/home.php on line 65
+[30-Aug-2019 21:51:41 UTC] PHP Notice:  Undefined variable: top_s3 in /home/quicklan/public_html/home.php on line 85
+[30-Aug-2019 21:51:41 UTC] PHP Notice:  Undefined variable: top_s4 in /home/quicklan/public_html/home.php on line 125
+[30-Aug-2019 21:51:41 UTC] PHP Notice:  Undefined variable: top_s5 in /home/quicklan/public_html/home.php on line 145
+[30-Aug-2019 21:51:41 UTC] PHP Notice:  Undefined variable: top_s6 in /home/quicklan/public_html/home.php on line 165
+[08-Sep-2019 20:38:12 UTC] PHP Notice:  Undefined index: id in /home/quicklan/public_html/services/check.php on line 4
+[08-Sep-2019 20:38:12 UTC] PHP Notice:  Undefined index: email in /home/quicklan/public_html/services/check.php on line 5
+[08-Sep-2019 20:38:12 UTC] PHP Notice:  Undefined index: password in /home/quicklan/public_html/services/check.php on line 6
+[08-Sep-2019 20:38:12 UTC] PHP Notice:  Undefined index: firstname in /home/quicklan/public_html/home.php on line 17
+[08-Sep-2019 20:38:12 UTC] PHP Notice:  Undefined variable: top_s1 in /home/quicklan/public_html/home.php on line 45
+[08-Sep-2019 20:38:12 UTC] PHP Notice:  Undefined variable: top_s2 in /home/quicklan/public_html/home.php on line 65
+[08-Sep-2019 20:38:12 UTC] PHP Notice:  Undefined variable: top_s3 in /home/quicklan/public_html/home.php on line 85
+[08-Sep-2019 20:38:12 UTC] PHP Notice:  Undefined variable: top_s4 in /home/quicklan/public_html/home.php on line 125
+[08-Sep-2019 20:38:12 UTC] PHP Notice:  Undefined variable: top_s5 in /home/quicklan/public_html/home.php on line 145
+[08-Sep-2019 20:38:12 UTC] PHP Notice:  Undefined variable: top_s6 in /home/quicklan/public_html/home.php on line 165
+[14-Sep-2019 12:09:05 UTC] PHP Notice:  Undefined index: id in /home/quicklan/public_html/services/check.php on line 4
+[14-Sep-2019 12:09:05 UTC] PHP Notice:  Undefined index: email in /home/quicklan/public_html/services/check.php on line 5
+[14-Sep-2019 12:09:05 UTC] PHP Notice:  Undefined index: password in /home/quicklan/public_html/services/check.php on line 6
+[14-Sep-2019 12:09:05 UTC] PHP Notice:  Undefined index: firstname in /home/quicklan/public_html/home.php on line 17
+[14-Sep-2019 12:09:05 UTC] PHP Notice:  Undefined variable: top_s1 in /home/quicklan/public_html/home.php on line 45
+[14-Sep-2019 12:09:05 UTC] PHP Notice:  Undefined variable: top_s2 in /home/quicklan/public_html/home.php on line 65
+[14-Sep-2019 12:09:05 UTC] PHP Notice:  Undefined variable: top_s3 in /home/quicklan/public_html/home.php on line 85
+[14-Sep-2019 12:09:05 UTC] PHP Notice:  Undefined variable: top_s4 in /home/quicklan/public_html/home.php on line 125
+[14-Sep-2019 12:09:05 UTC] PHP Notice:  Undefined variable: top_s5 in /home/quicklan/public_html/home.php on line 145
+[14-Sep-2019 12:09:05 UTC] PHP Notice:  Undefined variable: top_s6 in /home/quicklan/public_html/home.php on line 165
+[14-Sep-2019 20:39:57 UTC] PHP Notice:  Undefined index: id in /home/quicklan/public_html/services/check.php on line 4
+[14-Sep-2019 20:39:57 UTC] PHP Notice:  Undefined index: email in /home/quicklan/public_html/services/check.php on line 5
+[14-Sep-2019 20:39:57 UTC] PHP Notice:  Undefined index: password in /home/quicklan/public_html/services/check.php on line 6
+[14-Sep-2019 20:39:57 UTC] PHP Notice:  Undefined index: firstname in /home/quicklan/public_html/home.php on line 17
+[14-Sep-2019 20:39:57 UTC] PHP Notice:  Undefined variable: top_s1 in /home/quicklan/public_html/home.php on line 45
+[14-Sep-2019 20:39:57 UTC] PHP Notice:  Undefined variable: top_s2 in /home/quicklan/public_html/home.php on line 65
+[14-Sep-2019 20:39:57 UTC] PHP Notice:  Undefined variable: top_s3 in /home/quicklan/public_html/home.php on line 85
+[14-Sep-2019 20:39:57 UTC] PHP Notice:  Undefined variable: top_s4 in /home/quicklan/public_html/home.php on line 125
+[14-Sep-2019 20:39:57 UTC] PHP Notice:  Undefined variable: top_s5 in /home/quicklan/public_html/home.php on line 145
+[14-Sep-2019 20:39:57 UTC] PHP Notice:  Undefined variable: top_s6 in /home/quicklan/public_html/home.php on line 165
+[06-Oct-2019 11:14:13 UTC] PHP Notice:  Undefined index: id in /home/quicklan/public_html/services/check.php on line 4
+[06-Oct-2019 11:14:13 UTC] PHP Notice:  Undefined index: email in /home/quicklan/public_html/services/check.php on line 5
+[06-Oct-2019 11:14:13 UTC] PHP Notice:  Undefined index: password in /home/quicklan/public_html/services/check.php on line 6
+[06-Oct-2019 11:14:13 UTC] PHP Notice:  Undefined index: firstname in /home/quicklan/public_html/home.php on line 17
+[06-Oct-2019 11:14:13 UTC] PHP Notice:  Undefined variable: top_s1 in /home/quicklan/public_html/home.php on line 45
+[06-Oct-2019 11:14:13 UTC] PHP Notice:  Undefined variable: top_s2 in /home/quicklan/public_html/home.php on line 65
+[06-Oct-2019 11:14:13 UTC] PHP Notice:  Undefined variable: top_s3 in /home/quicklan/public_html/home.php on line 85
+[06-Oct-2019 11:14:13 UTC] PHP Notice:  Undefined variable: top_s4 in /home/quicklan/public_html/home.php on line 125
+[06-Oct-2019 11:14:13 UTC] PHP Notice:  Undefined variable: top_s5 in /home/quicklan/public_html/home.php on line 145
+[06-Oct-2019 11:14:13 UTC] PHP Notice:  Undefined variable: top_s6 in /home/quicklan/public_html/home.php on line 165
+[16-Dec-2019 10:54:06 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/quicklan/public_html/mail.php on line 24
+[16-Dec-2019 10:55:24 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/quicklan/public_html/mail.php on line 24
+[16-Dec-2019 10:55:29 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/quicklan/public_html/mail.php on line 24
+[16-Dec-2019 11:00:16 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/quicklan/public_html/mail.php on line 24
+[16-Dec-2019 11:00:18 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/quicklan/public_html/mail.php on line 24
+[16-Dec-2019 22:09:38 UTC] PHP Notice:  Undefined index: id in /home/quicklan/public_html/services/check.php on line 4
+[16-Dec-2019 22:09:38 UTC] PHP Notice:  Undefined index: email in /home/quicklan/public_html/services/check.php on line 5
+[16-Dec-2019 22:09:38 UTC] PHP Notice:  Undefined index: password in /home/quicklan/public_html/services/check.php on line 6
+[16-Dec-2019 22:09:38 UTC] PHP Notice:  Undefined index: firstname in /home/quicklan/public_html/home.php on line 17
+[16-Dec-2019 22:09:38 UTC] PHP Notice:  Undefined variable: top_s1 in /home/quicklan/public_html/home.php on line 45
+[16-Dec-2019 22:09:38 UTC] PHP Notice:  Undefined variable: top_s2 in /home/quicklan/public_html/home.php on line 65
+[16-Dec-2019 22:09:38 UTC] PHP Notice:  Undefined variable: top_s3 in /home/quicklan/public_html/home.php on line 85
+[16-Dec-2019 22:09:38 UTC] PHP Notice:  Undefined variable: top_s4 in /home/quicklan/public_html/home.php on line 125
+[16-Dec-2019 22:09:38 UTC] PHP Notice:  Undefined variable: top_s5 in /home/quicklan/public_html/home.php on line 145
+[16-Dec-2019 22:09:38 UTC] PHP Notice:  Undefined variable: top_s6 in /home/quicklan/public_html/home.php on line 165
+[08-Mar-2020 22:49:19 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/quicklan/public_html/reset.php on line 19
+[08-Mar-2020 22:50:25 UTC] PHP Parse error:  syntax error, unexpected 'nl2br' (T_STRING) in /home/quicklan/public_html/reset.php on line 19
+[08-Mar-2020 22:50:42 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/quicklan/public_html/reset.php on line 20
+[08-Mar-2020 22:51:24 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/quicklan/public_html/reset.php on line 21
+[08-Mar-2020 22:51:48 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/quicklan/public_html/reset.php on line 21
+[08-Mar-2020 22:53:34 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/quicklan/public_html/reset.php on line 19
+[08-Mar-2020 22:53:50 UTC] PHP Parse error:  syntax error, unexpected '"\n"' (T_CONSTANT_ENCAPSED_STRING) in /home/quicklan/public_html/reset.php on line 19
+[08-Mar-2020 22:54:18 UTC] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR) in /home/quicklan/public_html/reset.php on line 19
+[08-Mar-2020 22:55:05 UTC] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR) in /home/quicklan/public_html/reset.php on line 19
+[08-Mar-2020 22:57:31 UTC] PHP Parse error:  syntax error, unexpected '"\r\n"' (T_CONSTANT_ENCAPSED_STRING) in /home/quicklan/public_html/reset.php on line 19
+[08-Mar-2020 22:57:44 UTC] PHP Parse error:  syntax error, unexpected '"\r\n"' (T_CONSTANT_ENCAPSED_STRING) in /home/quicklan/public_html/reset.php on line 19
+[08-Mar-2020 23:35:09 UTC] PHP Notice:  Undefined index: id in /home/quicklan/public_html/services/check.php on line 4
+[08-Mar-2020 23:35:09 UTC] PHP Notice:  Undefined index: email in /home/quicklan/public_html/services/check.php on line 5
+[08-Mar-2020 23:35:09 UTC] PHP Notice:  Undefined index: password in /home/quicklan/public_html/services/check.php on line 6
+[08-Mar-2020 23:35:09 UTC] PHP Notice:  Undefined index: firstname in /home/quicklan/public_html/home.php on line 17
+[08-Mar-2020 23:35:09 UTC] PHP Notice:  Undefined variable: top_s1 in /home/quicklan/public_html/home.php on line 45
+[08-Mar-2020 23:35:09 UTC] PHP Notice:  Undefined variable: top_s2 in /home/quicklan/public_html/home.php on line 65
+[08-Mar-2020 23:35:09 UTC] PHP Notice:  Undefined variable: top_s3 in /home/quicklan/public_html/home.php on line 85
+[08-Mar-2020 23:35:09 UTC] PHP Notice:  Undefined variable: top_s4 in /home/quicklan/public_html/home.php on line 125
+[08-Mar-2020 23:35:09 UTC] PHP Notice:  Undefined variable: top_s5 in /home/quicklan/public_html/home.php on line 145
+[08-Mar-2020 23:35:09 UTC] PHP Notice:  Undefined variable: top_s6 in /home/quicklan/public_html/home.php on line 165
+[10-Mar-2020 11:24:15 UTC] PHP Notice:  Undefined index: id in /home/quicklan/public_html/services/check.php on line 4
+[10-Mar-2020 11:24:15 UTC] PHP Notice:  Undefined index: email in /home/quicklan/public_html/services/check.php on line 5
+[10-Mar-2020 11:24:15 UTC] PHP Notice:  Undefined index: password in /home/quicklan/public_html/services/check.php on line 6
+[10-Mar-2020 11:24:15 UTC] PHP Notice:  Undefined index: firstname in /home/quicklan/public_html/writing.php on line 17
