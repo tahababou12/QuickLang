@@ -1,0 +1,7 @@
+RewriteEngine on
+RewriteCond ${LeechProtect:/home/quicklan/public_html/admin:%{REMOTE_USER}:%{REMOTE_ADDR}:4:i9gRmip64xzhZcz4Z0EEiemTZRPw7ezz} leech
+RewriteRule .* Invalid
+AuthType Basic
+AuthName "/home/quicklan/public_html/admin"
+AuthUserFile "/home/quicklan/.htpasswds/public_html/admin/passwd"
+require valid-user
